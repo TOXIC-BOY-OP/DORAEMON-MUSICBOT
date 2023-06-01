@@ -2,10 +2,10 @@
 
 # 𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 <img src="https://img.shields.io/github/v/release/TOXIC-BOY-OP/DORAEMON-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧](https://t.me/BETA_MUSICPLAYEROBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧](https://http://t.me/DORAEMON_MUSICBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Beta-Music+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DORAEMON-MUSICBOT+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
 </p>
 
 
