@@ -14,7 +14,7 @@
             "description": "fill with the pyrogram session string. Generate Thorough @Sessionstring_genbot",
             "required": true
         },
-        "OWNER_ID": {
+        "OWNER_ID": {6109531260
             "description": "Fill it with your TG id",
             "required": true
         },
@@ -27,11 +27,11 @@
             "description": "fill with your bot token from @BotFather",
             "required": true
         },
-        "LOG_ID": {
+        "LOG_ID": {-1001518479327
             "description": "Fill It With Your Log channel/Group ID.",
             "required": true
         },
-        "DB_URL": {
+        "DB_URL": {mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority
             "description": "fill it with your mongo db url",
             "required": true
         },
@@ -44,7 +44,7 @@
             "value": "",
             "required": false
         },
-        "ALIVE_NAME": {
+        "ALIVE_NAME": {TOXIC
             "description": "PUT YOUR NAME HERE.",
             "value": "",
             "required": false
@@ -71,7 +71,7 @@
             "required": true
         },
     
-        "API_ID": {
+        "API_ID": {25374274
             "description": "your Api ID from my.telegram.org/apps",
             "required": true
         },
@@ -105,7 +105,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco dynos"
         }
     }
 }
