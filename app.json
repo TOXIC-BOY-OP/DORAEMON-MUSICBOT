@@ -1,13 +1,13 @@
 {
-    "name": "Beta-Music",
-    "logo": "https://graph.org/file/5dc99a4e42696ebb0a0a8.jpg",
+    "name": "❥︎❥︎❥︎𝙏𝙊𝙓𝙄𝘾-𝙈𝙐𝙎𝙄𝘾❥︎❥︎❥︎",
+    "logo": "https://graph.org/file/db0705d103a75a09597be.jpg",
     "description": "Beta-Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music bot", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/Jeolpaul/BETA-MUSICBOT",
+    "repository": "https://github.com/TOXIC-BOY-OP/DORAEMON-MUSICBOT",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -20,7 +20,7 @@
         },
         "START_IMG": {
             "description": "start image url that shown start command",
-            "value": "https://graph.org/file/f0edd62ebbe7bc5b0d630.jpg",
+            "value": "https://graph.org/file/db0705d103a75a09597be.jpg",
             "required": true
         },
         "BOT_TOKEN": {
