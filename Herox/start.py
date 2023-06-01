@@ -63,13 +63,13 @@ async def start_private(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup( [[
             InlineKeyboardButton("🔎 How to Use? Commands Menu.", callback_data="cb_cmd")
             ],[
-            InlineKeyboardButton("📨 Updates", url=f"https://t.me/{UPDATES_CHANNEL}"),         
-            InlineKeyboardButton("📨 Support", url=f"https://t.me/{GROUP_SUPPORT}")
+            InlineKeyboardButton("📨 Updates", url=f"https://t.me/{SHAYERI_WORLD}"),         
+            InlineKeyboardButton("📨 Support", url=f"https://t.me/{DOSTO_KI_M3HFIL}")
             ],[
-            InlineKeyboardButton("✚ Add me to your Group", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+            InlineKeyboardButton("✚ Add me to your Group", url=f"https://t.me/{TOX1C_MUSICBOT}?startgroup=true")
             ],[
-            InlineKeyboardButton("👤 Bot Owner", user_id=OWNER_ID),
-            InlinekeyboardButton("💡 Git Repo", url="https://github.com/BETA-OFFICIAL/BETA-MUSICBOT")
+            InlineKeyboardButton("👤 Bot Owner", user_id=6109531260),
+            InlinekeyboardButton("💡 Git Repo", url="https://github.com/TOXIC-BOY-OP/DORAEMON-MUSICBOT")
             ]]
             )
         )
