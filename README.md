@@ -1,8 +1,8 @@
 <img src="https://graph.org/file/8d4e573c57f126512f2e4.jpg" align="right" width="200" height="200"/>
 
-# BETA Music Bot <img src="https://img.shields.io/github/v/release/TOXIC-BOY-OP/DORAEMON-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# 𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 <img src="https://img.shields.io/github/v/release/TOXIC-BOY-OP/DORAEMON-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Beta Music Bot](https://t.me/BETA_MUSICPLAYEROBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧](https://t.me/BETA_MUSICPLAYEROBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Beta-Music+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
@@ -10,19 +10,19 @@
 
 
 <h2 align="center">
-    ──「 DEVELOPER 」──
+    ──「 𝗗𝗘𝗩𝗟𝗢𝗣𝗣𝗘𝗥 」──
 </h2>
 <p align="center">
 <a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
 </p>
 
-## Heroku Deployment
+## 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://herokuweb.vercel.app/)
 
 
 
-## Config Vars
+## 𝗖𝗢𝗡𝗙𝗜𝗚 𝗩𝗔𝗥𝗦
 
 1. `API_ID` : Get it from my.telegram.org 
 2. `API_HASH`  : Get it from my.telegram.org 
@@ -40,7 +40,7 @@
 14. 'SUDO_USERS' : fill with the user id who can access all function in your bot (separate with space) 
 
 
-## Thanks For Here
+## 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗛𝗘𝗥𝗘
 
 
 
