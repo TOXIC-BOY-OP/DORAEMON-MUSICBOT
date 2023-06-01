@@ -1,8 +1,8 @@
-<img src="https://graph.org/file/8d4e573c57f126512f2e4.jpg" align="right" width="200" height="200"/>
+<img src="https://graph.org/file/db0705d103a75a09597be.jpg" align="right" width="200" height="200"/>
 
-# 𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 <img src="https://img.shields.io/github/v/release/TOXIC-BOY-OP/DORAEMON-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 <img src="https://img.shields.io/github/v/release/TOXIC-BOY-OP/DORAEMON-MUSICBOT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[𝗗𝗢𝗥𝗔𝗘𝗠𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧](https://http://t.me/DORAEMON_MUSICBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧](https://http://t.me/TOX1C_MUSICBOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+DORAEMON-MUSICBOT+Repo!;A+simple+Music+stream+bot!;with+all+Features!)
@@ -13,7 +13,7 @@
     ──「 𝗗𝗘𝗩𝗟𝗢𝗣𝗣𝗘𝗥 」──
 </h2>
 <p align="center">
-<a href="https://t.me/JP_Jeol_org"><img src="https://img.shields.io/badge/JEOL-ReD.svg?style=for-the-badge&logo=Python"></a>
+<a href="https://t.me/OFFLINE_HU_VMRO"><img src="https://img.shields.io/badge/TOXIC-ReD.svg?style=for-the-badge&logo=Python"></a>
 </p>
 
 ## 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
